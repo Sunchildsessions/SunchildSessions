@@ -1,16 +1,25 @@
 # Sunchild Sessions
 
-**Sunchild Sessions** is a SaaS platform designed specifically for aestheticians to automate client appointment bookings, manage sessions, and streamline their daily workflow.
+**Sunchild Sessions** is a SaaS platform designed for solo entrepreneurs, service-based businesses, and community organizers to simplify appointment booking, enhance client engagement, and grow their business through social connections. Whether you're running a salon, spa, tattoo studio, or coordinating social experiences, Sunchild Sessions makes scheduling effortless and socially integrated.
 
 ## Features (Planned)
-- Simple, mobile-friendly appointment booking
-- Client session tracking
-- Custom availability and calendar sync
-- Automated reminders
-- Dashboard for managing bookings and client info
+- Simple, mobile-friendly appointment scheduling
+-One-on-one and group booking options
+-Shareable booking links and social invites
+-Custom availability and calendar sync
+-Company calendars for team schedules and internal updates
+-Automated reminders and confirmations
+-Dashboard for managing sessions, invitees, and client history
+-Analytics to track usage and business growth
+
 
 ## Target Audience
-This tool is built for solo aestheticians and small beauty studios who want an easy, beautiful way to manage their business online.
+Sunchild Sessions is built for service professionals and small businesses that rely on appointments and social engagement to manage and grow their operations. Perfect for:
+-Solo entrepreneurs and creators
+-Salons, spas, and tattoo studios
+-Fitness and wellness professionals
+-Coaches, consultants, and freelancers
+-Event hosts and community leaders
 
 ## Tech Stack (Planned)
 - **Frontend:** Next.js / React
